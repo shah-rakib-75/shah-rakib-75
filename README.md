@@ -8,11 +8,11 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=shah-rakib-75&color=red)
 
-Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
+Skills: HTML / CSS / Java / PYTHON/ BOOTSTRAP / REACT / JS / C / C++ 
 
 </div>
 
-- 🔭 I’m currently working on [Hablu Programmer](https://www.hablu-programmer.com/)
+- 🔭 I’m currently learning frontent web devolopment on [Hablu Programmer](https://www.hablu-programmer.com/)
 
 - 🌱 I’m currently learning Golang, Java, C++
 
