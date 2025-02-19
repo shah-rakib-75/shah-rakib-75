@@ -1,8 +1,8 @@
 ![I am shah-rakib-75](https://github.com/shah-rakib-75/shah-rakib-75/blob/main/code.png)
 
-<h1 align="center">Hi 👋, I'm HARUN UR ROSHID(Tutul)</h1>
+<h1 align="center">Hi 👋, I'm SHAH RAKIB)</h1>
 <h3 align="center">Programmer | Web Designer | Content Creator | Speed Learner</h3>
-<h4 align="center">Co-founder & Chief Operating Officer at Hablu Programmer</h4>
+<h4 align="center">Student at Hablu Programmer</h4>
 
 <div align="center">
 
